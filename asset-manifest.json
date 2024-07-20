@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BeDESIGN-App/static/css/main.f855e6bc.css",
+    "main.js": "/BeDESIGN-App/static/js/main.d6532a5f.js",
+    "static/js/453.a60e522d.chunk.js": "/BeDESIGN-App/static/js/453.a60e522d.chunk.js",
+    "static/media/logo.svg": "/BeDESIGN-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BeDESIGN-App/index.html",
+    "main.f855e6bc.css.map": "/BeDESIGN-App/static/css/main.f855e6bc.css.map",
+    "main.d6532a5f.js.map": "/BeDESIGN-App/static/js/main.d6532a5f.js.map",
+    "453.a60e522d.chunk.js.map": "/BeDESIGN-App/static/js/453.a60e522d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d6532a5f.js"
+  ]
+}
